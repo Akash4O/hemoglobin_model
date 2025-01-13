@@ -37,7 +37,7 @@ To implement and run the Hemoglobin Model, follow these steps:
 2. **Run the Model**:
    - After installing the dependencies, execute the following command in your terminal:
    ```bash
-   python main.py
+   python app.py
    ```
 
 ## 🤝 Contributing
